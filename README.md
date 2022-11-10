@@ -24,7 +24,7 @@ Convolutional Neural Network (ResNet50 backbone) + Cosine Similarity.
 ├── server.py
 ├── static
 │   ├── feature_database
-│   │   ├── concat_all_fearture.npz
+│   │   ├── concat_all_feature.npz
 │   │   ├── lion.npz
 │   │   ├── pig.npz
 │   │   ├── ...

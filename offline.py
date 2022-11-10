@@ -57,4 +57,4 @@ for folder in os.listdir(root_image_path):  # read all folder in folder list (im
     imgs_feature.extend(fe.extract(images_np))          
 
 # Save feature        
-np.savez_compressed(root_feature_path + "concat_all_fearture", array_1 = np.array(paths_feature), array_2 = np.array(imgs_feature))
+np.savez_compressed(root_feature_path + "concat_all_feature", array_1 = np.array(paths_feature), array_2 = np.array(imgs_feature))

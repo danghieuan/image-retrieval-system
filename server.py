@@ -25,7 +25,7 @@ def retrieval_images(query_vector, imgs_feature):
 
     return [(round(values[id], 2), paths_feature[id]) for id in id_s]
 
-root_fearure_path = "./static/feature_database/concat_all_fearture.npz"
+root_fearure_path = "./static/feature_database/concat_all_feature.npz"
 
 
 data = np.load(root_fearure_path)
