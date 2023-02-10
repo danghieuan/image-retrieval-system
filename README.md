@@ -62,7 +62,7 @@ Convolutional Neural Network (ResNet50 backbone) + Cosine Similarity.
 - Python 3.7 is used in this repository.
 - Clone the repository:
 ```
-$ git clone https://github.com/danghieuan/Image-Retrieval-System.git
+$ git clone https://github.com/danghieuan/image-retrieval-system.git
 ```
 
 
