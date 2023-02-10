@@ -69,7 +69,7 @@ $ git clone https://github.com/danghieuan/Image-Retrieval-System.git
 ## Feature Extractor (Employing ResNet-50 as the backbone network)
 
 ```
-$ cd Image-Retrieval-System
+$ cd image-retrieval-system
 $ python offline.py
 ```
 ![offline!](./repo_img/offline_py.png)
